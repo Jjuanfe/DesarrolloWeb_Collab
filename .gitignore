@@ -32,3 +32,4 @@ media/
 # Archivos de sistema operativo
 .DS_Store
 Thumbs.db
+frontend/ 
